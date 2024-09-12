@@ -1,5 +1,5 @@
 # Titanic-Survival-Prediction-Project
-![Uploading craiyon_161929_Create_a_vector_image_with_Titanic.png…]()
+C:\Users\nikit\Downloads\craiyon_161929_Create_a_vector_image_with_Titanic.png
 
 **About Dataset**
 Description:
