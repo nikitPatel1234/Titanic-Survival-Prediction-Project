@@ -1,5 +1,6 @@
 # Titanic-Survival-Prediction-Project
-![Uploading shipwreck-accident-ship-run-aground-sink-ocean_33099-2210.jpg…]()
+![image](https://github.com/user-attachments/assets/420d12be-13b4-4771-910b-2f448513a0d0)
+
 
 
 **About Dataset**
