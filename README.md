@@ -1,5 +1,6 @@
 # Titanic-Survival-Prediction-Project
-C:\Users\nikit\Downloads\craiyon_161929_Create_a_vector_image_with_Titanic.png
+![Uploading shipwreck-accident-ship-run-aground-sink-ocean_33099-2210.jpg…]()
+
 
 **About Dataset**
 Description:
