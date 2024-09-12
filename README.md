@@ -1,5 +1,6 @@
 # Titanic-Survival-Prediction-Project
-![image](https://github.com/user-attachments/assets/420d12be-13b4-4771-910b-2f448513a0d0)
+
+![craiyon_161929_Create_a_vector_image_with_Titanic](https://github.com/user-attachments/assets/84dd2c7b-096c-4c1f-a768-f0d723d3cdca)
 
 
 
